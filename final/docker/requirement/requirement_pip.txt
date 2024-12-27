@@ -1,0 +1,8 @@
+GPUtil==1.4.0
+numpy
+transforms3d
+PyQt5==5.10.1
+trimesh==3.9.36
+opencv-contrib-python==4.1.2.30
+cmake
+ultralytics
